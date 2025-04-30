@@ -1,0 +1,24 @@
+Header:
+Cole's Music and Code
+a portfolio of accomplishments 
+
+add an image here 
+
+Article:
+    Section 1:
+        paragrpah: about me 
+
+    Section 2:
+        skill table. columns for music, live sound, coding, etc
+
+
+    Section 3:
+        a hyper link to my bandcamp 
+        a hyper link to spotify
+
+    Section 4:
+        a contact form that allows vistitors to send a message 
+
+
+footer:
+do the copyright symbol thing. 
