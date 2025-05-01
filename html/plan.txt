@@ -22,3 +22,24 @@ Article:
 
 footer:
 do the copyright symbol thing. 
+
+
+
+
+
+PROFILE PAGE (Practice for lesson 3)
+
+Header:
+Audio Engineer, Musician, and Aspiring software Developer
+
+section 1:
+profile picture
+brief bio
+
+section 2
+list of skills
+
+Footer:
+copyright, and links to github and bandcamp
+
+
